@@ -1,5 +1,5 @@
 # HexUintMath
- stuff MATLAB SHOULD HAVE
+ stuff MATLAB should have? 
 
 
 Hex's are written in char arrays, WITHOUT the leading '0x'. 
